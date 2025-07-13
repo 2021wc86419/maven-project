@@ -16,7 +16,10 @@ This is a simple Maven-based Java project created using the `maven-archetype-qui
    cd my-maven-project
 
 ```bash
-sh 'mvn package'
-java -cp target/my-maven-project-1.0-SNAPSHOT.jar com.example.App
+mvn package
+java -cp target/my-maven-project-1.0-SNAPSHOT.jar com.bits_pilani.App
+# Recent Changes
+
+* Updated package name to `com.bits-pilani` in source files.
 sh 'mvn install'
 sh 'mvn test'
