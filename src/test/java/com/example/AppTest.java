@@ -1,4 +1,4 @@
-package com.bits-pilani;
+package com.bits_pilani;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

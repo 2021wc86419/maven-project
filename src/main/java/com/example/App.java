@@ -1,4 +1,4 @@
-package com.bits-pilani;
+package com.bits_pilani;
 
 /**
  * Hello world!
